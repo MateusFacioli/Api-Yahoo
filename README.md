@@ -1,3 +1,14 @@
+# node -v
+# npm -v
+#  npx create-react-app meu_app 
+# npm start ou npm install
+# npm install --save bootstrap
+# npm install --save reactstrap react react-dom
+# npm install --save  react-router-dom
+# npm install -- save axios
+
+# https://reactstrap.github.io/components/collapse/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
