@@ -19,7 +19,7 @@ const ButtonCollapse = (props) => {
            nesciunt sapiente ea proident.
           </CardBody>
         </Card> */}
-        <Content/>  
+        {/* <Content/>   */}
       </Collapse>
     </div>
   );

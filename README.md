@@ -6,9 +6,15 @@
 # npm install --save reactstrap react react-dom
 # npm install --save  react-router-dom
 # npm install -- save axios
+# npm install recharts
+
+# api yahoo rapidapi unofficial
+# npm install --save unirest
+# npm install --save gatsby react-dom react axios recharts
+# criar arquivo de variavel de ambiente .env e colocar sua chave RAPIDAPI_KEY= e chamar com process.env.RAPIDAPI_KEY
 
 # https://reactstrap.github.io/components/collapse/
-
+# npm i react-number-format
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
