@@ -19,8 +19,8 @@ const instance = axios.create({ //base para todas as consultas
     headers: {
         'content-type':'application/octet-stream',
         'x-rapidapi-host':'alpha-vantage.p.rapidapi.com',
-        'x-rapidapi-key': //process.env.RAPIDAPI_KEY
-        'e6ae7ff53emshcdb1730a4c3329bp1a1be6jsn62e5604b6486'
+        'x-rapidapi-key': process.env.RAPIDAPI_KEY
+        
     }
 });
 
